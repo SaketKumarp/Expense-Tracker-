@@ -5,10 +5,12 @@ Pocketwise is a personal expense tracker built with FastMCP, Supabase PostgreSQL
 ## Screenshots
 
 ### Dashboard
-![Pocketwise Dashboard](docs/screenshots/dashboard.png)
+ <img width="900" height="600" alt="Screenshot 2026-10-26 at 01 18 38" src="https://github.com/user-attachments/assets/c8d3b843-fd86-4ae3-914f-86ef74a9a53f" />
+
 
 ### Supabase Database
-![Supabase Expenses Table](docs/screenshots/supabase-expenses.png)
+ <img width="900" height="600" alt="Screenshot 2026-10-26 at 01 18 35" src="https://github.com/user-attachments/assets/7bb32e80-de80-45cc-8a58-fe288d0bb08b" />
+
 
 ## Features
 
