@@ -21,7 +21,7 @@ export default function Home() {
   const handleViewAll = () => {
     // TODO: Navigate to the Transactions page.
   };
-
+// we will start developing this applicastion and use it to make a rag and prediction modal as well using latest langchain and langgraph technology
 return (
   <main className="dark min-h-screen bg-[#0b0f14] text-slate-100">
     <div className="mx-auto flex w-full max-w-[1600px] flex-col gap-4 p-4 sm:p-5 lg:p-6">
